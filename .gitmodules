@@ -1,6 +1,6 @@
 [submodule "pulp-tools"]
 	path = pulp-tools
-	url = https://github.com/pulp-platform/pulp-tools.git
+	url = https://gitlab.ecs.tuwien.ac.at/stauner/pulp-tools.git
 [submodule "pulp-configs"]
 	path = pulp-configs
 	url = https://gitlab.ecs.tuwien.ac.at/stauner/pulp-configs.git
