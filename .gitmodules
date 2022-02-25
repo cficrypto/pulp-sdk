@@ -1,9 +1,9 @@
 [submodule "pulp-tools"]
 	path = pulp-tools
-	url = https://gitlab.ecs.tuwien.ac.at/stauner/pulp-tools.git
+	url = git@gitlab.ecs.tuwien.ac.at:pulpissimo-pulp-sdk/pulp-tools.git
 [submodule "pulp-configs"]
 	path = pulp-configs
-	url = https://gitlab.ecs.tuwien.ac.at/stauner/pulp-configs.git
+	url = git@gitlab.ecs.tuwien.ac.at:pulpissimo-pulp-sdk/pulp-configs.git
 [submodule "json-tools"]
 	path = json-tools
 	url = https://github.com/pulp-platform/json-tools.git
